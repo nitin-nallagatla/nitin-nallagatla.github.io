@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Nitin Nallagatla",
+    "label": "Student",
+    "picture": "https://nitin-nallagatla.github.io/images/pic.JPG",
+    "email": "nitinrnallagatla@gmail.com",
+    "website": "https://nitinnallagatla.github.io",
+    "summary": "I'm a high school senior who is passionate about learning and teaching computer science. 
+    My Achievements: Successfully completed AP Computer Science A.
+
+Completed CS50 at Harvard and obtained certification.
+
+Completed Las Positas College's AWS preparation courses.
+
+Completed Las Positas' Java Preparation course.
+
+Completed Las Positas' Python courses.
+
+",
+    "location": {
+      "address": "Bay Area",
+      "postalCode": "94588",
+      "city": "Bay Area",
+      "countryCode": "USA",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "nitin-nallagatla",
+        "url": "http://github.com/nitin-nallagatla"
+      },
+    ]
+  },
+  "interests": [
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Swimming"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "HTML"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Git/GitHub",
+        "Windows",
+        "MacOS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Amador Valley High School",
+      "area": "Computer Science",
+      "studyType": "Senior",
+      "startDate": "2018",
+      "endDate": "2022",
+    }
+  ],
+
+  "volunteer": [
+    {
+      "organization": "Red Cross",
+      "website": "https://www.redcross.org/",
+      "position": "Blood Donor Ambassador",
+    },
+  ]
+}
